@@ -1,7 +1,6 @@
-let sum =0;
-let sumNumbers = 0;
-for (let i =0;i<101;i++){
-    sum += i **2
-    sumNumbers += i
+
+
+for (let i =0 ;i<10;i++){
+    if(i == 7) continue;
+    console.log(i)
 }
-console.log(sumNumbers**2 - sum)
