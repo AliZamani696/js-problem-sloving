@@ -1,6 +1,9 @@
 # My Awesome Project
 [![Build Status](https://img.shields.io/travis/yourusername/yourrepo.svg)](https://travis-ci.org/yourusername/yourrepo)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+## Live Demo
+
+Check out a live demo of the app: [Live Demo](https://alizamani696.github.io)
 
 ## Description
 My Awesome Project is a tool that helps you manage and track your tasks efficiently. It is easy to use and designed with performance in mind.
